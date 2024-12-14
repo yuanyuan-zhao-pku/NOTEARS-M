@@ -1,0 +1,4 @@
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss']
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss'] #13、19
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'logistic', 'gauss', 'gauss', 'gauss', 'logistic', 'logistic']#13、15、19、20
+sem_type:['gauss', 'logistic', 'gauss', 'logistic', 'logistic', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss', 'logistic', 'gauss', 'logistic', 'logistic', 'logistic', 'logistic']#2、4、5、9、13、15、17、18、19、20

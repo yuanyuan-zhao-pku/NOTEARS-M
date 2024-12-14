@@ -1,0 +1,10 @@
+r=0.5,s0=10
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss']
+r=1,s0=20
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss']
+r=2,s0=40
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss']
+r=4,s0=80
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss']
+r=5,s0=100
+sem_type:['gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'gauss', 'logistic', 'gauss']
